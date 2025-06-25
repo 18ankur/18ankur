@@ -2,6 +2,12 @@
 <h3 align="center">Aspiring Data Scientist | CSE Undergrad | Passionate Problem Solver</h3>
 
 <p align="center">
+  Hi, I'm Ankur Sangwan — a Computer Science student and a Data Science enthusiast.  
+  I enjoy working with data, finding patterns, and making useful dashboards and reports.  
+  I use tools like <strong>Python, SQL, Power BI, Tableau</strong>, and <strong>Excel</strong> to turn raw data into meaningful insights.
+</p>
+
+<p align="center">
   <a href="https://18ankur.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
