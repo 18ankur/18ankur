@@ -18,18 +18,11 @@
 
 ---
 
-<!-- Typing animation (optional) -->
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AF79B&center=true&vCenter=true&width=435&lines=Turning+data+into+insight+%F0%9F%93%88;Loves+Python%2C+Power+BI%2C+SQL%2C+Tableau;Building+real-world+AI+solutions+%F0%9F%94%A5">
-</p>
--->
-
 ### 🛠️ Skills
 
 - **Languages:** C++, C, Python, Java, SQL  
 - **Tools & Tech:** Power BI, Tableau, Excel, MySQL  
-- **Soft Skills:** Problem Solving, Teamwork, Project Management  
+- **Soft Skills:** Problem Solving, Team Collaboration, Project Management
 
 ---
 
@@ -49,26 +42,25 @@
 
 ### 🎓 Education
 
-- 🏫 **B.Tech in CSE**, Lovely Professional University (2022–2026)  
-  CGPA: **6.61**
-- 📘 Intermediate: **91%** (2022)  
-- 📗 Matriculation: **85%** (2020)
+- 🏫 **B.Tech in CSE**, Lovely Professional University *(2022–2026)* — CGPA: **6.61**  
+- 📘 **Intermediate (2022)** — 91%  
+- 📗 **Matriculation (2020)** — 85%
 
 ---
 
 ### 📜 Certifications
 
-- 🧠 **Supervised Machine Learning** – DeepLearning.AI *(Oct 2024)*  
-- 📊 **Data Analysis with Tableau** – Tableau Learning *(Nov 2024)*  
-- 🤖 **Generative AI** – Infosys *(May 2025)*  
-- ☁️ **Cloud Computing** – NPTEL *(June 2024)*
+- 🧠 **Supervised Machine Learning** — DeepLearning.AI *(Oct 2024)*  
+- 📊 **Data Analysis with Tableau** — Tableau Learning *(Nov 2024)*  
+- 🤖 **Generative AI** — Infosys *(May 2025)*  
+- ☁️ **Cloud Computing** — NPTEL *(June 2024)*
 
 ---
 
 ### 🏆 Achievements
 
-- 🧩 Solved **50+ LeetCode** problems in DSA  
-- 🧠 Organized **Web Thon** – a 24-hour hackathon with 400+ participants in partnership with AERIV (Dubai)
+- ✅ Solved **50+ LeetCode** problems in DSA  
+- ✅ Organized **Web Thon** — a 24-hour hackathon with 400+ participants in partnership with AERIV (Dubai)
 
 ---
 
@@ -78,14 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=18ankur&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=18ankur&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18ankur&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<!-- Optional: GitHub Trophies -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=18ankur&theme=dracula&row=1&column=6" />
-</p>
--->
 
 ---
 
