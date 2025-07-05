@@ -76,7 +76,7 @@ fun_fact: "I make dashboards that speak!"
 
 ### 📊 Data & Visualization
 <img src="https://skillicons.dev/icons?i=powerbi,tableau,mysql,excel" />
-<img src="https://skillicons.dev/icons?i=jupyter,figma,matplotlib,seaborn,excel" />
+<img src="https://skillicons.dev/icons?i=figma,matplotlib,seaborn,excel" />
 
 ### 🧠 Others & Dev Tools
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
