@@ -81,7 +81,7 @@ fun_fact: "I make dashboards that speak!"
 
 ### 🧠 Tools & Platforms
 <div align="center">
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma" />
 </div>
 
 ---
