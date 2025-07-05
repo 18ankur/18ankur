@@ -2,9 +2,8 @@
 <h3 align="center">Aspiring Data Scientist | CSE Undergrad | Passionate Problem Solver</h3>
 
 <p align="center">
-  Hi, I'm Ankur Sangwan — a Computer Science student and a Data Science enthusiast.  
-  I enjoy working with data, finding patterns, and making useful dashboards and reports.  
-  I use tools like <strong>Python, SQL, Power BI, Tableau</strong>, and <strong>Excel</strong> to turn raw data into meaningful insights.
+  I'm a Computer Science student with a strong interest in data science and analytics.<br/>
+  I love transforming raw data into actionable insights using tools like <strong>Python</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau</strong>, and <strong>Excel</strong>.
 </p>
 
 <p align="center">
@@ -31,50 +30,50 @@
 </p>
 -->
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-- **Languages:** C++, C, Python, Java, SQL  
-- **Tools & Tech:** Power BI, Tableau, Excel, MySQL  
-- **Soft Skills:** Problem Solving, Teamwork, Project Management  
+- **Languages:** Python, SQL, Java, C++, C  
+- **Tools & Tech:** Power BI, Tableau, MySQL, Excel  
+- **Soft Skills:** Analytical Thinking, Team Collaboration, Problem Solving  
 
 ---
 
 ### 🚀 Projects
 
 #### 📊 Uber Rides Data Analysis
-- Performed EDA on Uber ride datasets  
-- Visualized peak hours & traffic zones with Matplotlib & Seaborn  
-- Delivered insights to improve operational efficiency
+- Conducted Exploratory Data Analysis (EDA) on Uber ride data  
+- Uncovered patterns in peak traffic zones and ride times  
+- Tools: Python, Pandas, Seaborn, Matplotlib  
 
 #### 📈 Amazon Sales Dashboard (Tableau)
-- Built interactive dashboards with charts & heatmaps  
-- Cleaned large datasets in Excel  
-- Shared live dashboards for better business decisions
+- Designed interactive dashboards with KPIs, heatmaps, and filters  
+- Improved business understanding through visual storytelling  
+- Tools: Tableau, Excel  
 
 ---
 
 ### 🎓 Education
 
-- 🏫 **B.Tech in CSE**, Lovely Professional University (2022–2026)  
+- 🎓 **B.Tech in Computer Science**, Lovely Professional University (2022–2026)  
   CGPA: **6.61**
-- 📘 Intermediate: **91%** (2022)  
-- 📗 Matriculation: **85%** (2020)
+- 📘 **Class 12 (CBSE):** 91% (2022)  
+- 📗 **Class 10 (CBSE):** 85% (2020)
 
 ---
 
 ### 📜 Certifications
 
-- 🧠 **Supervised Machine Learning** – DeepLearning.AI *(Oct 2024)*  
-- 📊 **Data Analysis with Tableau** – Tableau Learning *(Nov 2024)*  
-- 🤖 **Generative AI** – Infosys *(May 2025)*  
-- ☁️ **Cloud Computing** – NPTEL *(June 2024)*
+- 🧠 Supervised Machine Learning – DeepLearning.AI *(Oct 2024)*  
+- 📊 Data Analysis with Tableau – Tableau Learning *(Nov 2024)*  
+- 🤖 Generative AI – Infosys *(May 2025)*  
+- ☁️ Cloud Computing – NPTEL *(June 2024)*
 
 ---
 
 ### 🏆 Achievements
 
-- 🧩 Solved **50+ LeetCode** problems in DSA  
-- 🧠 Organized **Web Thon** – a 24-hour hackathon with 400+ participants in partnership with AERIV (Dubai)
+- ✅ Solved **50+ LeetCode** problems in DSA  
+- 🧩 Organized **Web Thon** – a 24-hour international hackathon with 400+ participants in collaboration with AERIV (Dubai)
 
 ---
 
@@ -88,7 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18ankur&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Optional: GitHub Trophies -->
+<!-- Optional GitHub Trophies -->
 <!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=18ankur&theme=dracula&row=1&column=6" />
@@ -99,8 +98,12 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankur-sangwan/)
-- 🌐 [Portfolio Website](https://18ankur.github.io/Portfolio/)
-- 📫 [ankursangwan2004@gmail.com](mailto:ankursangwan2004@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankur-sangwan/)  
+- 🌐 [Portfolio Website](https://18ankur.github.io/Portfolio/)  
+- 📫 [ankursangwan2004@gmail.com](mailto:ankursangwan2004@gmail.com)  
 
 ---
+
+<p align="center">
+  <em>“Data is the new oil, and I love refining it.”</em>  
+</p>
