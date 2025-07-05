@@ -1,109 +1,126 @@
-<h1 align="center">Hi 👋, I'm Ankur Sangwan</h1>
-<h3 align="center">Aspiring Data Scientist | CSE Undergrad | Passionate Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  I'm a Computer Science student with a strong interest in data science and analytics.<br/>
-  I love transforming raw data into actionable insights using tools like <strong>Python</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, <strong>Tableau</strong>, and <strong>Excel</strong>.
-</p>
+# 💻 Welcome to My Coding Space 💻
 
-<p align="center">
-  <a href="https://18ankur.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:ankursangwan2004@gmail.com">
-    <img src="https://img.shields.io/badge/✉️ Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankur-sangwan/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/18ankur" target="_blank">
-    <img src="https://img.shields.io/badge/🐙 GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;CSE+Undergraduate;Dashboard+Designer;Problem+Solver" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=18ankur&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/18ankur)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=18ankur&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<!-- Typing animation (optional) -->
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AF79B&center=true&vCenter=true&width=435&lines=Turning+data+into+insight+%F0%9F%93%88;Loves+Python%2C+Power+BI%2C+SQL%2C+Tableau;Building+real-world+AI+solutions+%F0%9F%94%A5">
-</p>
--->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🛠️ Tech Stack
+## 🌟 About Me
 
-- **Languages:** Python, SQL, Java, C++, C  
-- **Tools & Tech:** Power BI, Tableau, MySQL, Excel  
-- **Soft Skills:** Analytical Thinking, Team Collaboration, Problem Solving  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
+```yaml
+name: "Ankur Sangwan"
+location: "India 🇮🇳"
+role: "Data Science Enthusiast | CSE Student"
+status: "Turning Raw Data into Meaningful Insights"
+motto: "Explore, Learn, Build"
+current_focus: "Power BI, Python & Machine Learning"
+fun_fact: "I make dashboards that speak!"
+```
 
-### 🚀 Projects
-
-#### 📊 Uber Rides Data Analysis
-- Conducted Exploratory Data Analysis (EDA) on Uber ride data  
-- Uncovered patterns in peak traffic zones and ride times  
-- Tools: Python, Pandas, Seaborn, Matplotlib  
-
-#### 📈 Amazon Sales Dashboard (Tableau)
-- Designed interactive dashboards with KPIs, heatmaps, and filters  
-- Improved business understanding through visual storytelling  
-- Tools: Tableau, Excel  
+### 🎯 Current Mission
+- 📊 **Working on:** Business Insights Dashboards & EDA Projects
+- 🌱 **Learning:** Power BI, SQL, and Python for Analytics
+- 🔍 **Exploring:** AI tools and ML workflows
+- 🎨 **Portfolio:** [View My Projects](https://18ankur.github.io/Portfolio/)
 
 ---
 
-### 🎓 Education
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- 🎓 **B.Tech in Computer Science**, Lovely Professional University (2022–2026)  
-  CGPA: **6.61**
-- 📘 **Class 12 (CBSE):** 91% (2022)  
-- 📗 **Class 10 (CBSE):** 85% (2020)
+## 🚀 Featured Projects
 
----
+<div align="center">
 
-### 📜 Certifications
+### 📊 Uber Rides Data Analysis
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400">
 
-- 🧠 Supervised Machine Learning – DeepLearning.AI *(Oct 2024)*  
-- 📊 Data Analysis with Tableau – Tableau Learning *(Nov 2024)*  
-- 🤖 Generative AI – Infosys *(May 2025)*  
-- ☁️ Cloud Computing – NPTEL *(June 2024)*
+**Key Insights:**
+- Analyzed travel patterns, peak hours, and zones
+- Tools used: Python, Pandas, Matplotlib, Seaborn
 
 ---
 
-### 🏆 Achievements
+### 📈 Amazon Sales Dashboard (Tableau)
+<img src="https://media.giphy.com/media/3o6fJcELsP6z3YVczq/giphy.gif" width="400">
 
-- ✅ Solved **50+ LeetCode** problems in DSA  
-- 🧩 Organized **Web Thon** – a 24-hour international hackathon with 400+ participants in collaboration with AERIV (Dubai)
+**What I Built:**
+- Interactive Tableau dashboard with filters & KPIs
+- Data cleaning in Excel, insight delivery in Tableau
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18ankur&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=18ankur&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18ankur&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Optional GitHub Trophies -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=18ankur&theme=dracula&row=1&column=6" />
-</p>
--->
+</div>
 
 ---
 
-### 🤝 Let's Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankur-sangwan/)  
-- 🌐 [Portfolio Website](https://18ankur.github.io/Portfolio/)  
-- 📫 [ankursangwan2004@gmail.com](mailto:ankursangwan2004@gmail.com)  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Analysis Tools
+<img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+
+### 📊 Data & Visualization
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,mysql,excel" />
+
+### 🧠 Others
+<img src="https://skillicons.dev/icons?i=github" />
+
+</div>
 
 ---
 
-<p align="center">
-  <em>“Data is the new oil, and I love refining it.”</em>  
-</p>
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=18ankur&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=18ankur&theme=radical&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18ankur&layout=compact&theme=radical" />
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="300">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-sangwan/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankursangwan2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://18ankur.github.io/Portfolio/)
+
+### 💬 Ask Me About
+`Power BI` • `Python` • `SQL` • `Data Visualization` • `Excel`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+### 🧠 "Without data, you're just another person with an opinion." — W. Edwards Deming
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
