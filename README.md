@@ -79,7 +79,7 @@ fun_fact: "I make dashboards that speak!"
 <img src="https://skillicons.dev/icons?i=jupyter,figma,matplotlib,seaborn,excel" />
 
 ### 🧠 Others & Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
 
 </div>
 
