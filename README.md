@@ -42,17 +42,6 @@ fun_fact: "I make dashboards that speak!"
 ## 🚀 Featured Projects
 
 <div align="center">
-
-### 🤖 AI-Powered Resume Analyzer
-<img src="https://cdn.dribbble.com/users/15149907/screenshots/19298720/media/b57a0e26c66ef42023cf7d1a9a8f3612.png" width="400">
-
-**What It Does:**
-- Analyzes uploaded resumes using NLP techniques
-- Extracts key skills, experience, and formats insights for recruiters
-- Tools used: Python, Pandas, spaCy, Streamlit
-
----
-
 ### 📊 Uber Rides Data Analysis
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 <img src="https://cdn.dribbble.com/users/2329166/screenshots/15245771/media/ee43403c1a96a4f4d507bbdbb6631c7c.png" width="400">
