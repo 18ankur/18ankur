@@ -84,11 +84,6 @@ fun_fact: "I make dashboards that speak!"
 <img src="https://skillicons.dev/icons?i=powerbi" />
 <img src="https://skillicons.dev/icons?i=tableau" />
 <img src="https://skillicons.dev/icons?i=excel" />
-<img src="https://skillicons.dev/icons?i=jupyter" />
-<img src="https://skillicons.dev/icons?i=seaborn" />
-<img src="https://skillicons.dev/icons?i=matplotlib" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=sql" />
 </div>
 
 ### 🧠 Tools & Platforms
