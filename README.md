@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://cdn.dribbble.com/users/323371/screenshots/16852211/media/2178859b0f1517be9fd2caa31b29dcf1.gif" width="900">
 
 ## ✩ About Me
 
@@ -42,6 +42,16 @@ fun_fact: "I make dashboards that speak!"
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### 🤖 AI-Powered Resume Analyzer
+<img src="https://cdn.dribbble.com/users/15149907/screenshots/19298720/media/b57a0e26c66ef42023cf7d1a9a8f3612.png" width="400">
+
+**What It Does:**
+- Analyzes uploaded resumes using NLP techniques
+- Extracts key skills, experience, and formats insights for recruiters
+- Tools used: Python, Pandas, spaCy, Streamlit
+
+---
 
 ### 📊 Uber Rides Data Analysis
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
