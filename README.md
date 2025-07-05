@@ -81,9 +81,7 @@ fun_fact: "I make dashboards that speak!"
 
 ### 📊 Data Analysis & Visualization
 <div align="center">
-<img src="https://skillicons.dev/icons?i=powerbi" />
-<img src="https://skillicons.dev/icons?i=tableau" />
-<img src="https://skillicons.dev/icons?i=excel" />
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
 </div>
 
 ### 🧠 Tools & Platforms
