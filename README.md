@@ -82,11 +82,9 @@ fun_fact: "I make dashboards that speak!"
 
 ### 📊 Data Analysis & Visualization
 <div align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel"/>
 </div>
 
 
