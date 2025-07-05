@@ -15,7 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🌟 About Me
+## ✩ About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -70,13 +70,13 @@ fun_fact: "I make dashboards that speak!"
 <div align="center">
 
 ### 💻 Languages & Analysis Tools
-<img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,sql,r" />
 
 ### 📊 Data & Visualization
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,mysql,excel" />
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,mysql,excel,matplotlib,seaborn" />
 
 ### 🧠 Others
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github,git,linux,vscode,jupyter" />
 
 </div>
 
