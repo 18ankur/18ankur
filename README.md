@@ -44,9 +44,6 @@ fun_fact: "I make dashboards that speak!"
 <div align="center">
 
 ### 📊 Uber Rides Data Analysis
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
-<img src="https://cdn.dribbble.com/users/2329166/screenshots/15245771/media/ee43403c1a96a4f4d507bbdbb6631c7c.png" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/235445688-3d2920c2-08f8-4a67-b989-c2c7d0a88627.png" width="400">
 
 **Key Insights:**
 - Analyzed travel patterns, peak hours, and zones
@@ -55,9 +52,6 @@ fun_fact: "I make dashboards that speak!"
 ---
 
 ### 📈 Amazon Sales Dashboard (Tableau)
-<img src="https://cdn.dribbble.com/users/4220631/screenshots/16016463/media/ef9c361c7f0b3bc623bb7e1ae0d2daba.png" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/235445728-5025f3f2-72f3-48d0-bb1a-b2b8b8b30620.png" width="400">
-
 **What I Built:**
 - Interactive Tableau dashboard with filters & KPIs
 - Data cleaning in Excel, insight delivery in Tableau
