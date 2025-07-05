@@ -71,15 +71,14 @@ fun_fact: "I make dashboards that speak!"
 
 <div align="center">
 
-### 💻 Languages & Analysis Tools
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,r" />
+### 💻 Languages & Programming
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,sql,r" />
 
-### 📊 Data & Visualization
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,mysql,excel" />
-<img src="https://skillicons.dev/icons?i=figma,matplotlib,seaborn,excel" />
+### 📊 Data Analysis & Visualization
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,jupyter,seaborn,matplotlib" />
 
-### 🧠 Others & Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,github,git,vscode,linux,figma" />
 
 </div>
 
